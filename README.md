@@ -1,4 +1,9 @@
-# 🚗 Automatic Number Plate Recognition (ANPR) — YOLOv8 + EasyOCR
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:5C3EE8&height=300&section=header&text=ANPR%20System&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=YOLOv8%20%2B%20EasyOCR%20%7C%20Real-Time%20Detection&descSize=20&descAlignY=60" width="100%"/>
+</p>
+
+
 
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-00FFAA?style=for-the-badge&logo=github&logoColor=black)
