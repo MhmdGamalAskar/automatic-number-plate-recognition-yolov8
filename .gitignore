@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# outputs
+out.mp4
+test.csv
+test_interpolated.csv
+test.mp4
+
+# local videos
+sample.mp4
+
+# model weights
+yolov8n.pt
