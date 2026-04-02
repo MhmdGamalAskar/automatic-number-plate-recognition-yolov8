@@ -23,9 +23,12 @@
 </p>
 
 ---
+
 ## 📸 Demo
----
+
 ![Demo](demo.gif)
+
+---
 
 ## 📌 Overview
 
@@ -133,12 +136,6 @@ Open your browser at `http://localhost:8501` 🎉
 ---
 
 
-
-
----
-
-
-
 ## 🙌 Acknowledgments
 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
@@ -166,7 +163,7 @@ Open your browser at `http://localhost:8501` 🎉
 
 <div align="center">
 
-**⭐ If this project helped you, drop a star — it keeps the motivation going!**
+**⭐ If this project helped you  drop a star — it keeps the motivation going!**
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
